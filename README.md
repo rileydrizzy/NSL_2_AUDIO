@@ -52,7 +52,7 @@
 ## About
 
 ***Overview:*** \
-This project is dedicated to the development of an Automatic Sign Language Translation system, with a specific focus on translating Nigerian Sign Language (NSL) into one of the Low-Resource Languages (LRLs) spoken in Nigeria. The primary objective is to address the communication challenges faced by the NSL community and contribute to inclusivity and employment opportunities in education and the workforce.
+This project is dedicated to the development of an Automatic Sign Language Translation system, with a specific focus on translating Nigerian Sign Language (NSL) into one of the Low-Resource Languages (LRLs) spoken in Nigeria. The primary objective is to address the communication challenges faced by the NSL community and contribute to inclusively and employment opportunities in education and the workforce.
 
 ***Significance:*** \
 Effective communication is a cornerstone of societal cohesion, and this project addresses a critical gap in the integration of the NSL community into the broader society. Sign language, while vital for the hearing-impaired, often faces limitations in bridging the gap with the larger community. This project seeks to overcome these limitations and promote a more inclusive and understanding society.
